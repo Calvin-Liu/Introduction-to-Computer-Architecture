@@ -1,0 +1,2 @@
+#!/bin/bash
+/space/CS33/13S/submission-lab5/submit.pl $1

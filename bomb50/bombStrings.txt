@@ -1,0 +1,177 @@
+/lib64/ld-linux-x86-64.so.2
+__gmon_start__
+libc.so.6
+socket
+fflush
+strcpy
+exit
+sprintf
+fopen
+__isoc99_sscanf
+connect
+signal
+puts
+stdin
+strtol
+fgets
+__errno_location
+read
+stdout
+memcpy
+strcasecmp
+getenv
+__ctype_b_loc
+stderr
+alarm
+gethostbyname
+gethostname
+bcopy
+close
+fprintf
+sleep
+__libc_start_main
+write
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.2.5
+5J' 
+%L' 
+%J' 
+%B' 
+%:' 
+%2' 
+%*' 
+%"' 
+%z& 
+%r& 
+fff.
+ATUSH
+l$0H
+T$ H
+D$(H
+P[]A\
+ATUSH
+[]A\
+D$(H
+D$ H
+SHc=
+***t
+runc
+ated
+ATUSH
+$ErroA
+r: CA
+lienA
+t unA
+ableA
+ to A
+creaA
+te sA
+D$ ockefA
+D$$t
+$ErroA
+r: DA
+NS iA
+s unA
+ableA
+ to A
+resoA
+lve A
+D$ servA
+D$$er aA
+D$(ddrefA
+D$,ssA
+$OKA
+[]A\
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+ErroA
+r: RA
+esulA
+t stA
+ringA
+ tooA
+ larA
+ge. A
+F IncrA
+F$easeA
+F( SUBA
+F,MITRA
+F0_MAXA
+F4BUF
+<*t$<-t <.t
+K< u	
+<	uH
+ErroA
+r: CA
+lienA
+t unA
+ableA
+ to A
+readA
+ heaA
+F dersA
+F$ froA
+F(m seA
+F,rverA
+[]A\A]A^A_
+fffff.
+l$ L
+t$(L
+|$0H
+%s: Error: Couldn't open %s
+Usage: %s [<input_file>]
+That's number 2.  Keep going!
+Halfway there!
+Good work!  On to the next...
+Welcome to my fiendish little bomb. You have 6 phases with
+which to blow yourself up. Have a nice day!
+Phase 1 defused. How about the next one?
+So you got that one.  Try this one.
+Wow! You've defused the secret stage!
+Any sufficiently advanced bug is indistinguishable from a feature.
+sabres
+maduiersnfotvbylInvalid phase%s
+exploded
+defused
+%d:%s:%d:%s
+%d %d %s
+DrEvil
+BOOM!!!
+The bomb has blown up.
+%d %d %d %d %d %d %d %d %d %d
+Error: Premature EOF on stdin
+GRADE_BOMB
+Error: Input line too long
+Initialization error:
+Well...
+OK. :-)
+lnxsrv02.seas.ucla.edu
+lnxsrv03.seas.ucla.edu
+lnxsrv04.seas.ucla.edu
+ERROR: Input string is too large.
+Curses, you've found the secret phase!
+But finding it and solving it are quite different...
+Congratulations! You've defused the bomb!
+Your instructor has been notified and will verify your solution.
+Your instructor has been notified.
+Initialization error: Running on an illegal host [1]
+Initialization error: Running on an illegal host [2]
+So you think you can stop the bomb with ctrl-c, do you?
+%%%02X
+%s %d %[a-zA-z ]
+AUTORESULT_STRING=%s
+csapp
+Error: Unable to connect to server %s
+Error: Client unable to create socket
+Error: DNS is unable to resolve server address
+Error: Unable to connect to the server
+Error: Result string contains an illegal or unprintable character.
+Error: Client unable to write to the server
+Error: Client unable to read first header from server
+Error: HTTP request failed with error %d: %s
+Error: Client unable to read status message from server
+GET /%s/submitr.pl/?userid=%s&lab=%s&result=%s&submit=submit HTTP/1.0
+Program timed out after %d seconds
+804182525
